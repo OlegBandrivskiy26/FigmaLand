@@ -1,0 +1,324 @@
+/* laptop 1199 */
+@media screen and (max-width: 1340px){
+        
+        .logo{
+            margin-left: 100px;
+            margin-right: 100px;
+        }
+        
+        .mainButton{
+            padding-left: 100px;
+        }
+        .mainBtn{
+            margin-left: 80px;
+        }
+        .LaptoptAdap{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            
+        }
+        .cart{
+            flex-direction: column;
+        }
+        
+        .imgPeople{
+            width: 672px;
+        }
+        .padingu{
+            display: none;
+        }
+        .padCart-3{
+            display: flex;
+            padding-top: 64px;
+            padding-bottom: 64px;
+        }
+        .block-3{
+            display: none;
+        }
+        .padCart-1{
+            display: flex;
+        }
+        .content{
+            height: 1715px;
+        }
+        .cart{
+            display: flex;
+            flex-direction: column;
+            padding-bottom: 800px;
+            
+        }
+        .mainH1{
+            margin-bottom: 650px;
+        }
+        
+}
+/* _____________ */
+@media  screen and (max-width: 1160px) {
+    
+    .btnMenu{
+        margin-left: 20px;
+    }
+    .btnMenu:first-child{
+        margin-left: 0;
+    }
+}
+/* laptop */
+@media screen and (max-width: 1090px){
+        
+        .logo{
+            margin-right: 80px;
+        }
+        .btnMenu{
+            margin-left: 20px;
+        }
+        .btnMenu:first-child{
+            margin-left: 0;
+        }
+        .imgStatic{
+            width: 436px;   
+        }
+        .imgPeople{
+            width: 472px;
+            height: 425px;
+        }
+        .boxFree-1{
+            display: none;
+        }
+        .boxesFree{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .boxPad{
+            padding-bottom: 40px;
+        }
+        .pd{
+            padding-right: 43px;
+            padding-left: 43px;
+        }
+        .padPresF{
+            padding-left: 0;
+        } 
+        .atkluchitel{
+            display: none;
+        }
+}
+/* ___________________ */
+/* Tablet */
+
+@media screen and (max-width: 1000px){
+        .menuBtn{
+            display: none;
+        }
+        .burger{
+            display: flex;
+            align-items: flex-end;
+            justify-content: flex-end;
+            flex-direction: column;
+            padding-left: 50px;
+            padding-right: 80px;
+        }
+        .element-1{
+            width: 44px;
+            height: 5px;
+            background-color: #FFFFFF;
+        }
+        .element-2{
+            width: 33px;
+            height: 5px;
+            background-color: #FFFFFF;
+        }
+        .element-3{
+            width: 20px;
+            height: 5px;
+            background-color: #FFFFFF;
+        }
+        .padElem-1{
+            margin-bottom: 6px;
+        }
+        .padElem-2{
+            margin-top: 6px;
+        }
+        .padCart-3{
+            display: flex;
+            padding-top: 64px;
+            padding-bottom: 64px;
+        }
+        .block-3{
+            display: none;
+        }
+        .padCart-1{
+            display: flex;
+        }
+        .content{
+            height: 1715px;
+        }
+        .cart{
+            display: flex;
+            flex-direction: column;
+            padding-bottom: 800px;
+        }
+        .mainH1{
+            margin-bottom: 650px;
+        }
+        .nxtContent{
+            display: none;
+        }
+        .box{
+            border: none;
+        }
+        .nxtContent-1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .imgStatic{
+            width: 516px;
+            height: 486px;
+        }
+        .btnsPad{
+            margin-top: 88px;
+        }
+        .txtsj{
+            padding-bottom: 0;
+        }
+        .nextConteiner{
+            display: none;
+        }
+        .nextConteiner-1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .nastroi-1{
+            text-align: center;
+            font-size: 46px;
+            font-weight: 500;
+        }
+        .nastroi-2{
+            text-align: center;
+            font-size: 18px;
+            font-weight: 400;
+        }
+        .imgPeople{
+            width: 463px;
+            height: 225px;
+        }
+        .padfra{
+            padding-right: 110px;
+            padding-bottom: 69px;
+        }
+        .nxtCont{
+            display: none;
+        }
+        .nxtCont-1{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            height: 1207px;
+        }        
+        .perPad{
+            padding-top: 60px;
+            padding-bottom: 95px;
+        }
+        .footer{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            width: 100%;
+            height: 954px;
+            background-color: #112D57;
+        }
+        footer{
+            display: none;
+        }
+        .twooPad{
+            display: flex;
+            padding-bottom: 66px;
+        }
+        .padjf{
+            padding-right: 73px;
+        }
+        .ferrt{
+            padding-bottom: 87px;
+            padding-right: 95px;
+        }
+        .padPresF{
+            padding-top: 97px;
+            padding-right: 130px;
+        }
+        .boxesFree{
+            display: none;
+        }
+        .boxses{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .boxFree-1{
+            display: flex;
+        }
+        .ContrNext{
+            height: 4139px;
+        }
+        .pdFree{
+            margin-right: 33px;
+            margin-top: 30px;
+        }
+        .pedk{
+            margin-right: 65px;
+            margin-top: 30px;
+        }
+}
+/* ____________________ */
+
+/* Phone S */
+
+@media screen and (max-width: 740px){
+        .logo{
+            width: 136px;
+            height: 48px;
+            margin-right: 0;
+        }
+        .burger{
+            padding-left: 20px;
+            padding-right: 50px;
+        }
+        .mainBtn{
+            width: 121px;
+            height: 52px;
+            font-size: 12px;
+            font-weight: 300;
+        }
+        .box{
+            text-align: center;
+        }
+        .txtsj{
+            text-align: center;
+        }
+        .alid{
+            text-align: center;
+        }
+        .largeTxt{
+            text-align: center;
+        }
+        .pdsmltxt{
+            text-align: center;
+        }
+}
+
+/* _____________________ */
+/* Phone Xs */
+@media screen and (max-width: 570px){
+        .mainButton{
+            padding-left: 0;
+        }
+}
+
+/* _____________________ */
